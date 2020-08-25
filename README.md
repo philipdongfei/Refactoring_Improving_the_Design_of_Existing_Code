@@ -1,2 +1,3 @@
-# Refactoring_Improving_the_Design_of_Existing_Code
+# **Refactoring** Improving the Design of Existing Code
+
 Author: Martin Fowler
