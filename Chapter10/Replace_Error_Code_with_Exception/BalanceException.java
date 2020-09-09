@@ -1,0 +1,4 @@
+
+class BalanceException extends Exception {
+
+}
