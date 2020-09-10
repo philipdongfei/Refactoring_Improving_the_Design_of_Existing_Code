@@ -1,0 +1,18 @@
+
+class Employee {
+    public Employee(String name, String id, int annualCost){
+        super(name);
+        _id = id;
+        _annualCost = annualCost;
+    }
+
+    public int getAnnualCost(){
+        return _annualCost;
+    }
+    public String getId(){
+        return _id;
+    }
+
+    private String _id;
+    private int _annualCost;
+}
